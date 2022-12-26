@@ -237,6 +237,7 @@ int PayForTheCart(SuperMarker * theSuper)
 	printCart(customerCurrent->cart);
 	printf("\nthe customer %s pay! the cart is now empty\n--------------------------\n", customerCurrent->name);
 	MakeShoppingCartEmptyBecauseOfPayment(customerCurrent->cart);
+	customerCurrent->cart = NULL
 	return 1;
 }
 
