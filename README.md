@@ -16,8 +16,8 @@
 Proper software structure as you learned in the object-oriented programming course.
 
 ## The main program:
-• Set up a food store and initialize it.
-• After the initial boot, a menu should be displayed that allows the following actions:
+* Set up a food store and initialize it.
+* After the initial boot, a menu should be displayed that allows the following actions:
 1. Printing the grocery store data
 2. Adding a product
 3. Add a customer
