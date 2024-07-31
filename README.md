@@ -1,9 +1,13 @@
 # year 2 project in C : super market system:
+</p>
+<div align="center">
+ <img alt="super market" height="100px" src="https://miro.medium.com/v2/resize:fit:1400/1*gsAx5C0V-Aj2e87pkzRkKg.jpeg">
+</div>
+
+
 * Exercise topic: strings, structures and dynamic assignments
 * In this exercise you will have to implement a food store management system.
-* The food store has:
-    • Registered customers and only they can make purchases
-    • Products in stock of certain types
+* The food store has: Registered customers and only they can make purchases,Products in stock of certain types
 * Functions to be implemented for all structures:
 1. Function of receiving values ​​from the user.
 2. Print functions.
@@ -23,3 +27,7 @@ Proper software structure as you learned in the object-oriented programming cour
 7. Printing all the products available in the store of a certain type
 8. Exiting the program. If there are customers in buying mode, make sure they pay and then exit. Yes
 
+## how to use the project 
+1. install visual studio in this [link](https://visualstudio.microsoft.com/downloads/)
+2. from the visual studio clone this project
+3. have fun :)
