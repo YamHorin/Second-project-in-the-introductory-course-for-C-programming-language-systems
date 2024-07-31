@@ -1,7 +1,7 @@
 # year 2 project in C : super market system:
 </p>
 <div align="center">
- <img alt="super market" height="100px" src="https://miro.medium.com/v2/resize:fit:1400/1*gsAx5C0V-Aj2e87pkzRkKg.jpeg">
+ <img alt="super market" height="200px" src="https://miro.medium.com/v2/resize:fit:1400/1*gsAx5C0V-Aj2e87pkzRkKg.jpeg">
 </div>
 
 
